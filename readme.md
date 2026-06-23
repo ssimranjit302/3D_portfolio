@@ -2,8 +2,8 @@
 All credits to Jesse Zhou (jesse-zhou.com) https://github.com/enderh3art/Ramen-Shop <br>
 for the 3-D model. <br><br>
 
-## Demo
-https://simranjit.github.io/ 
+[## Demo
+https://ssimranjit302.github.io/3D_portfolio/
 <br><br>
 Portfolio project using Three.js and Blender. <br>
 All text appearing in the project is actually graphics in .ktx2 format.<br>
