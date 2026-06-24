@@ -45578,21 +45578,21 @@
                 ("aboutMe" !== this.logic.mode &&
                   "skills" !== this.logic.mode &&
                   "experience" !== this.logic.mode) ||
-                window.open("https://linkedin.com/in/simranjit/", "_blank");
+                window.open("https://linkedin.com/in/", "_blank");
             }),
             (this.socialControls.linkedIn = async () => {
               !1 !== this.logic.buttonsLocked ||
                 ("aboutMe" !== this.logic.mode &&
                   "skills" !== this.logic.mode &&
                   "experience" !== this.logic.mode) ||
-                window.open("https://linkedin.com/in/simranjit/", "_blank");
+                window.open("https://linkedin.com/in/", "_blank");
             }),
             (this.socialControls.gitHub = async () => {
               !1 !== this.logic.buttonsLocked ||
                 ("aboutMe" !== this.logic.mode &&
                   "skills" !== this.logic.mode &&
                   "experience" !== this.logic.mode) ||
-                window.open("https://github.com/simranjit", "_blank");
+                window.open("https://github.com/", "_blank");
             }),
             (this.socialControls.medium = async () => {
               !1 !== this.logic.buttonsLocked ||
@@ -45600,7 +45600,7 @@
                   "skills" !== this.logic.mode &&
                   "experience" !== this.logic.mode) ||
                 window.open(
-                  "https://ieeexplore.ieee.org/document/10084341",
+                  "https://ieeexplore.ieee.org/",
                   "_blank",
                 );
             }),
@@ -45609,7 +45609,7 @@
                 ("aboutMe" !== this.logic.mode &&
                   "skills" !== this.logic.mode &&
                   "experience" !== this.logic.mode) ||
-                (window.location.href = "mailto:simranjit@gmail.com");
+                (window.location.href = "mailto:simranjit302@gmail.com");
             }));
         }
         screenTransition(t, e, i) {
